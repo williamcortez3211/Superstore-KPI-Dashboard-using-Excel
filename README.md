@@ -54,5 +54,12 @@ Users can filter dashboard results by region using slicers.
 - Develop targeted marketing campaigns for the Central region to improve sales performance.
 - Prioritize inventory planning for top-performing products to maximize revenue opportunities.
 ## Dasboard Overview
+https://github.com/williamcortez3211/Superstore-KPI-Dashboard-using-Excel/blob/main/Screenshots/KPI%20Dashboard.png
 
+
+## Author
+
+William John T. Cortez
+
+Aspiring Data Analyst focused on transforming data into actionable business insights.
 
